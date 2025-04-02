@@ -2,6 +2,6 @@
 
 ## Repositório para estudos voltados a Análise de Dados utilizando SQL
 
-* Ferramentas:
+* Ferramentas para análise de dados:
   * Databricks
   * Vs Code  
